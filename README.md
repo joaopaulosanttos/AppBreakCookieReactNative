@@ -12,7 +12,7 @@ npx react-native run-android
 ```
 ## Descrição
 
-### Projeto construido em React Native, consiste em imprimir na tela do usuários frases aleátorios ao cliar no botão de "quebrar biscoito". 
+#### Projeto construido em React Native, consiste em imprimir na tela do usuários frases aleátorios ao cliar no botão de "quebrar biscoito". 
 
 
 
